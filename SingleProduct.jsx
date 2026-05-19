@@ -27,7 +27,7 @@ export default function SingleProduct() {
                 </div>
 
                 <Link to={"/"}>
-                    <i className="bi bi-arrow-left-circle-fill"></i>
+                    <i class="bi bi-arrow-left-square-fill"></i>
                 </Link>
 
             </div>
